@@ -1,0 +1,15 @@
+\packages
+\bin
+\obj
+\.vs
+\[B|b]ack[U|u]p
+*.user
+*.lock.json
+*.nuget.cache
+*.nuget.props
+*.nuget.targets
+Resource.Designer.cs
+*.bak
+*.zip
+*.rar
+*.7z
